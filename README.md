@@ -1,6 +1,6 @@
 # 📊 Análise de Vendas com Power BI
 
-![Dashboard](imagens/dashboard_visao_geral.png)
+![Dashboard](imagens/1765985479995.jpeg)
 
 Projeto de análise de dados desenvolvido com Power BI, com foco em transformar dados de vendas em insights claros para apoio à tomada de decisão.
 
@@ -41,4 +41,5 @@ analise-vendas-powerbi/
 
 ## 📌 Observação
 Projeto desenvolvido para fins de estudo e portfólio, simulando um cenário real de análise de dados no varejo.
+
 
